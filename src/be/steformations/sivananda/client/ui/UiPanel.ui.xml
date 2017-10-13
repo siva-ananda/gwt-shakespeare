@@ -34,8 +34,8 @@
 
 			<m:MaterialRow> <!-- output -->
 
-				<m:MaterialColumn grid="s2" offset="s4">
-					<siva:Output />
+				<m:MaterialColumn >
+					<siva:Output/>
 				</m:MaterialColumn>
 
 			</m:MaterialRow>
